@@ -17,4 +17,15 @@
     <li>Cloud Functions: Qwik Start - Console <br> Cloud Functions: Qwik Start - Command Line</li>
     <li>Google Cloud Pub/Sub: Qwik Start - Console <br> Google Cloud Pub/Sub: Qwik Start - Command Line <br> Google Cloud Pub/Sub: Qwik Start - Python</li>
     <li>Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab</li>
-  </h4></ul>  
+  </h4></ul>
+  
+  
+  <li><h2>Setup and Configure a Cloud Environment in Google Cloud</h2></li>
+  <h4><ul>
+    <li>Cloud IAM: Qwik Start</li>
+    <li>Introduction to SQL for BigQuery and Cloud SQL</li>
+    <li>Multiple VPC Networks</li>
+    <li>Cloud Monitoring: Qwik Start</li>
+    <li>Managing Deployments Using Kubernetes Engine</li>
+    <li>Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab</li>
+  </h4></ul>

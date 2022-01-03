@@ -38,3 +38,24 @@
     <li>Troubleshooting Workloads on GKE for Site Reliability Engineers</li>
     <li>Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab</li>
   </h4></ul>
+  
+  
+  <li><h2>Build and Secure Networks in Google Cloud</h2></li>
+  <h4><ul>
+    <li>User Authentication: Identity-Aware Proxy</li>
+    <li>Multiple VPC Networks</li>
+    <li>VPC Networks - Controlling Access</li>
+    <li>HTTP Load Balancer with Cloud Armor</li>
+    <li>Create an Internal Load Balancer</li>
+    <li>Build and Secure Networks in Google Cloud: Challenge Lab</li>
+  </h4></ul>
+  
+  <li><h2>Deploy to Kubernetes in Google Cloud</h2></li>
+  <h4><ul>
+    <li>Introduction to Docker</li>
+    <li>Kubernetes Engine: Qwik Start</li>
+    <li>Orchestrating the Cloud with Kubernetes</li>
+    <li>Managing Deployments Using Kubernetes Engine</li>
+    <li>Continuous Delivery with Jenkins in Kubernetes Engine</li>
+    <li>Deploy to Kubernetes in Google Cloud: Challenge Lab</li>
+  </h4></ul>

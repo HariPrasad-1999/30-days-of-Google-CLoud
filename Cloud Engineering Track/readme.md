@@ -36,6 +36,5 @@
     <li>Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine</li>
     <li>Multiple VPC Networks</li>
     <li>Troubleshooting Workloads on GKE for Site Reliability Engineers</li>
-    <li>Managing Deployments Using Kubernetes Engine</li>
     <li>Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab</li>
   </h4></ul>

@@ -56,10 +56,10 @@
   
   <li><h2>Explore Machine Learning Models with Explainable AI</h2></li>
   <h4><ul>
-    <li>Introduction to Docker</li>
-    <li>Kubernetes Engine: Qwik Start</li>
-    <li>Orchestrating the Cloud with Kubernetes</li>
-    <li>Managing Deployments Using Kubernetes Engine</li>
-    <li>Continuous Delivery with Jenkins in Kubernetes Engine</li>
-    <li>Deploy to Kubernetes in Google Cloud: Challenge Lab</li>
+    <li>AI Platform: Qwik Start</li>
+    <li>Using the What-If Tool with Image Recognition Models</li>
+    <li>Using the What-if Tool Performance & Fairness Features</li>
+    <li>Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool</li>
+    <li>Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias</li>
+    <li>Explore Machine Learning Models with Explainable AI: Challenge Lab</li>
   </h4></ul>

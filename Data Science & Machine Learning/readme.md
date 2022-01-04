@@ -24,21 +24,22 @@
   
   <li><h2>Insights from Data with BigQuery</h2></li>
   <h4><ul>
-    <li>Cloud IAM: Qwik Start</li>
     <li>Introduction to SQL for BigQuery and Cloud SQL</li>
-    <li>Multiple VPC Networks</li>
-    <li>Cloud Monitoring: Qwik Start</li>
-    <li>Managing Deployments Using Kubernetes Engine</li>
-    <li>Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab</li>
+    <li>BigQuery: Qwik Start - Console <br> BigQuery: Qwik Start - Command Line</li>
+    <li>Exploring Your Ecommerce Dataset with SQL in Google BigQuery</li>
+    <li>Troubleshooting Common SQL Errors with BigQuery</li>
+    <li>Explore and Create Reports with Data Studio</li>
+    <li>Insights from Data with BigQuery: Challenge Lab</li>
   </h4></ul>
   
   <li><h2>Engineer Data in Google Cloud</h2></li>
   <h4><ul>
-    <li>Orchestrating the Cloud with Kubernetes</li>
-    <li>Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine</li>
-    <li>Multiple VPC Networks</li>
-    <li>Troubleshooting Workloads on GKE for Site Reliability Engineers</li>
-    <li>Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab</li>
+    <li>Creating a Data Transformation Pipeline with Cloud Dataprep</li>
+    <li>Building an IoT Analytics Pipeline on Google Cloud</li>
+    <li>ETL Processing on Google Cloud Using Dataflow and BigQuery</li>
+    <li>Predict Visitor Purchases with a Classification Model in BQML</li>
+    <li>Cloud Composer: Copying BigQuery Tables Across Different Locations</li>
+    <li>Engineer Data in Google Cloud: Challenge Lab</li>
   </h4></ul>
   
   

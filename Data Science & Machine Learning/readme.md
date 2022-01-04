@@ -45,12 +45,13 @@
   
   <li><h2>Integrate with Machine Learning APIs</h2></li>
   <h4><ul>
-    <li>User Authentication: Identity-Aware Proxy</li>
-    <li>Multiple VPC Networks</li>
-    <li>VPC Networks - Controlling Access</li>
-    <li>HTTP Load Balancer with Cloud Armor</li>
-    <li>Create an Internal Load Balancer</li>
-    <li>Build and Secure Networks in Google Cloud: Challenge Lab</li>
+    <li>Introduction to APIs in Google</li>
+    <li>Extract, Analyze, and Translate Text from Images with the Cloud ML APIs</li>
+    <li>Classify Text into Categories with the Natural Language API</li>
+    <li>Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API</li>
+    <li>Entity and Sentiment Analysis with the Natural Language API</li>
+    <li>Awwvision: Cloud Vision API from a Kubernetes Cluster</li>
+    <li>Integrate with Machine Learning APIs: Challenge Lab</li>
   </h4></ul>
   
   <li><h2>Explore Machine Learning Models with Explainable AI</h2></li>

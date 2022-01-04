@@ -11,12 +11,14 @@
   
   <li><h2>Perform Foundational Data, ML, and AI Tasks in Google Cloud</h2></li>
   <h4><ul>
-    <li>Cloud Storage: Qwik Start - Cloud Console <br> Cloud Storage: Qwik Start - CLI/SDK</li>
-    <li>Cloud IAM: Qwik Start</li>
-    <li>Cloud Monitoring: Qwik Start</li>
-    <li>Cloud Functions: Qwik Start - Console <br> Cloud Functions: Qwik Start - Command Line</li>
-    <li>Google Cloud Pub/Sub: Qwik Start - Console <br> Google Cloud Pub/Sub: Qwik Start - Command Line <br> Google Cloud Pub/Sub: Qwik Start - Python</li>
-    <li>Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab</li>
+    <li>AI Platform: Qwik Start</li>
+    <li>Dataprep: Qwik Start</li>
+    <li>Dataflow: Qwik Start - Templates/Python</li>
+    <li>Dataproc: Qwik Start - Console <br> Dataproc: Qwik Start - Command Line</li>
+    <li>Cloud Natural Language API: Qwik Start</li>
+    <li>Google Cloud Speech API: Qwik Start</li>
+    <li>Video Intelligence: Qwik Start</li>
+    <li>Perform Foundational Data, ML, and AI Tasks in Google Cloud Challenge Lab</li>
   </h4></ul>
   
   

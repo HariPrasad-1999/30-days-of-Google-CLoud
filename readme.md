@@ -2,7 +2,7 @@
 
 
 <p>
-  ✔️Track 1: Cloud Engineering Track
+  ✔️<b><u>Track 1: Cloud Engineering Track</u></b>
  
   1. <a href="https://www.cloudskillsboost.google/quests/120">Skill Badge: Getting Started: Create and Manage Cloud Resources</a>
   2. <a href="https://www.cloudskillsboost.google/quests/118">Skill Badge: Perform Foundational Infrastructure Tasks in Google Cloud</a>
@@ -11,7 +11,7 @@
   5. <a href="https://www.cloudskillsboost.google/quests/128">Skill Badge: Build and Secure Networks in Google Cloud</a>
   6. <a href="https://www.cloudskillsboost.google/quests/116">Skill Badge: Deploy to Kubernetes in Google Cloud</a>
   
-  ✔️Track 2: Data Science & Machine Learning Track
+  ✔️<b><u>Track 2: Data Science & Machine Learning Track</u></b>
   1. <a href="https://www.cloudskillsboost.google/quests/120">Skill Badge: Getting Started: Create and Manage Cloud Resources</a>
   2. <a href="https://www.cloudskillsboost.google/quests/117">Skill Badge: Perform Foundational Data, ML, and AI Tasks in Google Cloud</a>
   3. <a href="https://www.cloudskillsboost.google/quests/123">Skill Badge: Insights from Data with BigQuery</a>
